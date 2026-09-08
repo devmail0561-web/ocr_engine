@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Exports locaux
+csv_export/
+json_export/
+text_export/
+
+# IDE
+.vscode/
+.idea/
+
+# Venv
+.venv/
