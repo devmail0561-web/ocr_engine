@@ -1,3 +1,4 @@
+# Copyright (c) 2026 M. Tendeng — MIT License (see LICENSE)
 """
 Moteur OCR adaptatif — sélectionne automatiquement Tesseract ou EasyOCR
 selon la taille de l'image et le script détecté (OSD Tesseract).

@@ -1,3 +1,4 @@
+# Copyright (c) 2026 M. Tendeng — MIT License (see LICENSE)
 """amanda_ocr — moteur OCR adaptatif pour images et PDFs."""
 from .dynamic_ocr import DynamicOCR
 from .models import ProcessingItem, PageSource

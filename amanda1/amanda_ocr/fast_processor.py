@@ -1,3 +1,4 @@
+# Copyright (c) 2026 M. Tendeng — MIT License (see LICENSE)
 """
 Wrapper optimisé pour image-processor-lite.
 Utilise Tesseract directement (sans EasyOCR/PyTorch) via le pipeline preprocessing.py.

@@ -1,6 +1,6 @@
+# Copyright (c) 2026 M. Tendeng — MIT License (see LICENSE)
 """
 Interface graphique OCR Engine — customtkinter dark theme.
-Lancer : /home/virus-one/Documents/projet_orc/.venv/bin/python core/gui.py
 """
 
 import os

@@ -1,3 +1,4 @@
+# Copyright (c) 2026 M. Tendeng — MIT License (see LICENSE)
 from PIL import Image, UnidentifiedImageError
 import numpy as np
 

@@ -1,3 +1,4 @@
+# Copyright (c) 2026 M. Tendeng — MIT License (see LICENSE)
 import numpy as np
 import pytesseract
 from PIL import Image

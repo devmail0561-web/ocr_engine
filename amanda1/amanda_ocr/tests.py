@@ -1,3 +1,4 @@
+# Copyright (c) 2026 M. Tendeng — MIT License (see LICENSE)
 """
 Suite de tests pour le pipeline OCR amanda1.
 Exécuter avec :

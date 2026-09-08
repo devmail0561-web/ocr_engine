@@ -1,3 +1,4 @@
+# Copyright (c) 2026 M. Tendeng — MIT License (see LICENSE)
 from __future__ import annotations
 
 from dataclasses import dataclass, field
